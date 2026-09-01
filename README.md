@@ -9,3 +9,5 @@ Truth / Lie system
 NPC Perception
 Trust / Suspicion / Uncertainty
 Ignore System (WIP)
+
+-The higher one-
