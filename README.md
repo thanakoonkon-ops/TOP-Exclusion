@@ -5,9 +5,13 @@ Core Idea :
 NPCs evaluate their perception of the player rather than the whole truth.
 
 Current Features :
-Truth / Lie system
-NPC Perception
-Trust / Suspicion / Uncertainty
-Ignore System (WIP)
+
+- Truth / Lie system
+
+- NPC Perception
+
+- Trust / Suspicion / Uncertainty
+
+- Ignore System (WIP)
 
 -The higher one-
